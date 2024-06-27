@@ -1,0 +1,32 @@
+C:\Users\DESARROLLO4\source\repos\Api Web Ejemplo\Api Web Ejemplo\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\DESARROLLO4\source\repos\Api Web Ejemplo\Api Web Ejemplo\bin\Debug\net8.0\appsettings.json
+C:\Users\DESARROLLO4\source\repos\Api Web Ejemplo\Api Web Ejemplo\bin\Debug\net8.0\Api Web Ejemplo.exe
+C:\Users\DESARROLLO4\source\repos\Api Web Ejemplo\Api Web Ejemplo\bin\Debug\net8.0\Api Web Ejemplo.deps.json
+C:\Users\DESARROLLO4\source\repos\Api Web Ejemplo\Api Web Ejemplo\bin\Debug\net8.0\Api Web Ejemplo.runtimeconfig.json
+C:\Users\DESARROLLO4\source\repos\Api Web Ejemplo\Api Web Ejemplo\bin\Debug\net8.0\Api Web Ejemplo.dll
+C:\Users\DESARROLLO4\source\repos\Api Web Ejemplo\Api Web Ejemplo\bin\Debug\net8.0\Api Web Ejemplo.pdb
+C:\Users\DESARROLLO4\source\repos\Api Web Ejemplo\Api Web Ejemplo\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\DESARROLLO4\source\repos\Api Web Ejemplo\Api Web Ejemplo\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DESARROLLO4\source\repos\Api Web Ejemplo\Api Web Ejemplo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DESARROLLO4\source\repos\Api Web Ejemplo\Api Web Ejemplo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DESARROLLO4\source\repos\Api Web Ejemplo\Api Web Ejemplo\obj\Debug\net8.0\Api Web Ejemplo.csproj.AssemblyReference.cache
+C:\Users\DESARROLLO4\source\repos\Api Web Ejemplo\Api Web Ejemplo\obj\Debug\net8.0\Api Web Ejemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DESARROLLO4\source\repos\Api Web Ejemplo\Api Web Ejemplo\obj\Debug\net8.0\Api Web Ejemplo.AssemblyInfoInputs.cache
+C:\Users\DESARROLLO4\source\repos\Api Web Ejemplo\Api Web Ejemplo\obj\Debug\net8.0\Api Web Ejemplo.AssemblyInfo.cs
+C:\Users\DESARROLLO4\source\repos\Api Web Ejemplo\Api Web Ejemplo\obj\Debug\net8.0\Api Web Ejemplo.csproj.CoreCompileInputs.cache
+C:\Users\DESARROLLO4\source\repos\Api Web Ejemplo\Api Web Ejemplo\obj\Debug\net8.0\Api Web Ejemplo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DESARROLLO4\source\repos\Api Web Ejemplo\Api Web Ejemplo\obj\Debug\net8.0\Api Web Ejemplo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DESARROLLO4\source\repos\Api Web Ejemplo\Api Web Ejemplo\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\DESARROLLO4\source\repos\Api Web Ejemplo\Api Web Ejemplo\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\DESARROLLO4\source\repos\Api Web Ejemplo\Api Web Ejemplo\obj\Debug\net8.0\staticwebassets\msbuild.Api Web Ejemplo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DESARROLLO4\source\repos\Api Web Ejemplo\Api Web Ejemplo\obj\Debug\net8.0\staticwebassets\msbuild.build.Api Web Ejemplo.props
+C:\Users\DESARROLLO4\source\repos\Api Web Ejemplo\Api Web Ejemplo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Api Web Ejemplo.props
+C:\Users\DESARROLLO4\source\repos\Api Web Ejemplo\Api Web Ejemplo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Api Web Ejemplo.props
+C:\Users\DESARROLLO4\source\repos\Api Web Ejemplo\Api Web Ejemplo\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\DESARROLLO4\source\repos\Api Web Ejemplo\Api Web Ejemplo\obj\Debug\net8.0\scopedcss\bundle\Api Web Ejemplo.styles.css
+C:\Users\DESARROLLO4\source\repos\Api Web Ejemplo\Api Web Ejemplo\obj\Debug\net8.0\Api Web .FB1E9C83.Up2Date
+C:\Users\DESARROLLO4\source\repos\Api Web Ejemplo\Api Web Ejemplo\obj\Debug\net8.0\Api Web Ejemplo.dll
+C:\Users\DESARROLLO4\source\repos\Api Web Ejemplo\Api Web Ejemplo\obj\Debug\net8.0\refint\Api Web Ejemplo.dll
+C:\Users\DESARROLLO4\source\repos\Api Web Ejemplo\Api Web Ejemplo\obj\Debug\net8.0\Api Web Ejemplo.pdb
+C:\Users\DESARROLLO4\source\repos\Api Web Ejemplo\Api Web Ejemplo\obj\Debug\net8.0\Api Web Ejemplo.genruntimeconfig.cache
+C:\Users\DESARROLLO4\source\repos\Api Web Ejemplo\Api Web Ejemplo\obj\Debug\net8.0\ref\Api Web Ejemplo.dll
